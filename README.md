@@ -64,7 +64,7 @@ docs/                     Instalación, arquitectura, manual y presentación
 
 React no consulta las tablas desde las páginas. Las páginas utilizan servicios; los servicios delegan en repositorios intercambiables. El diseño evita crear capas vacías o abstracciones sin una responsabilidad real.
 
-Más información: **[Arquitectura](docs/ARQUITECTURA.md)** · **[Manual de uso](docs/MANUAL.md)** · **[Presentarlo en tu CV](docs/PORTAFOLIO.md)**.
+Más información: **[Arquitectura](docs/ARQUITECTURA.md)** · **[Manual de uso](docs/MANUAL.md)** ·.
 
 ## Comandos
 
